@@ -1,0 +1,42 @@
+codepen.io - writing html,css,js effectively
+codeply.com - writing html,css,js effectively
+devdocs.io - web dev document
+developer.mozilla.org - web dev documentation
+web.archive.org - visual history of webpages
+unicode-taible.com - unicode characters
+photobucket.com - putting local images on web 
+appbrewery.co/p/newsletter/ - latest updates on angela's discoveries
+colorhunt.co - color palettes for websites
+pesticide.io - Pesticide extension
+emojipedia.org - emojis
+favicon.cc - creating our own favicons
+cssfontstack.com 
+fonts.google.com
+flaticon.com
+giphy.com
+cssbuttoncreator.com 
+frontendmentor.io/
+fontawesome.com
+getbootstrap.com
+ui-patterns.com
+dribble.com
+sneakpeekit.com
+balsamiq.cloud
+bootsnipp.com
+canva.com
+github.com/rwaldron/idiomatic.js
+jquery.com
+minifier.org
+learnenough.com/command-line-tutorial - unix commands
+npmjs.com
+expressjs.com
+nodemon.io  - efficient automatic debugging and running of js files
+en.wikipedia.org/wiki/List_of_HTTP_status_codes
+postman.com - app for testing apis
+Json Viewer Awesome extension - for pretty displaying json content in browser
+httpstatusdogs.com - 
+mailchimp.com - api for 
+heroku.com
+
+www.appbrewery.co/p/web-development-course-resources/
+
