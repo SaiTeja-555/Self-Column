@@ -1,0 +1,46 @@
+from matplotlib import pyplot as plt
+plt.plot(x_list,y_list)
+plt.plot(x_list,y_list2) --> for multiple curves in one graph
+plt.plot(x_list,y_list,label=curve_legend) --> inbuilt legend
+plt.xlabel(x_label)
+plt.ylabel(y_label)
+plt.title(graph_title)
+plt.legend([1st_legend,2nd_legend,..]) -->adding legends correspondingly 
+plt.show()
+
+format string : 
+'[color][marker][line]'
+
+matplotlib colors,markers,linestyles
+
+line styles  :
+'-' --> solid line 
+'--' --> dashed line
+'-.' --> dash-dot line
+':' --> dotted line
+
+plt.plot(x_list,y_list,format_string) or plt.plot(x_list,y_list,color=color, linestyle= linestyle, marker=marker)
+
+plot optional attributes:
+label,color,marker,linestyle,linewidth(width for bar graph)
+
+plt.tight_layout() --> padding 
+plt.grid(True) --> gets us a grid in graph
+
+plt.style.available --> list of all available styles
+plt.style.use(style_name)
+plt.xkcd() --> comic graph
+
+plt.savefig(path_with_name) --> saves the graph in given path
+
+plt.bar(x_list,y_list) --> bar graph. we can use same optional attributes
+
+x_indices = numpy.arrange(len(x_list))
+plt.xticks(ticks=x_indices,labels=x_list) 
+plt.bar(x_indices-width,y_list1,width=width) 
+plt.bar(x_indices,y_list2,width=width)
+plt.bar(x_indices+width,y_list3,width=width) --> multiple bar graphs
+
+from collections import Counter
+c = Counter(list) --> keeps a count of every unique element in the list
+c.update(list) --> updates the counters with the given list

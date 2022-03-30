@@ -1,0 +1,155 @@
+babe(1995)
+independence day
+@titanic
+what dreams may come
+@the matrix
+@gladiator
+@the lord of the rings:the fellowship of ring
+@the lord of the rings:the two towers
+@the lord of the rings:the return of the king
+@spiderman 2
+@king kong
+@pirates of the caribbean:dead man's chest
+the golden compass
+the curious case of benjamin button
+@avatar
+@inception
+hugo
+@life of pi
+@gravity
+@interstellar
+ex machina
+@the jungle book
+blade runner 2049
+first man
+@joker
+
+
+
+@prison break
+the walking dead
+@money heist
+dexter
+peaky blinders
+narcos
+stranger things
+friends
+@game of thrones
+@breaking bad
+
+
+
+isle of dogs
+klaus
+the breadwinner
+@tangled
+wreck it ralph
+@ralph breaks the internet
+a cat in paris
+your name
+the tale of the princess kaguya
+@moana
+song of the sea
+the lego movie
+@inside out
+its such a beautiful day
+@kubo and the two strings
+anomalisa
+@how to train your dragon
+@frozen
+@coco
+@toy story 3
+paranorman
+@zootopia
+@rango
+i lost my body
+my life as a zuchimi
+spiderman- into the spider verse
+
+@ice age: continental drift
+@madagascar: europe's most wanted
+@croods
+@kung fu panda
+the adventure of tin tin
+@the jungle book
+@despicable me
+shrek
+@the incredibles
+@monsters inc.
+@finding nemo
+@up
+@wall e
+@lion king
+
+
+@the maze runner
+tron:legacy 
+@lucy
+ready player one
+@rise of the planet of apes
+ex-machina
+@gravity
+her
+district 9
+edge of tomorrow
+children of men
+arrival
+star war:force awakens
+@the martian
+mad max: fury road
+aliens
+@the terminator: judgement day
+@avatar
+@avengers endgame
+@interstellar
+@the matrix
+@inception
+
+
+vudu.com
+tubitv.com
+imdb.com/tv
+sonycrackle.com
+therokuchannel.roku.com
+popcornflix.com
+hoopladigital.com
+kanopy.com
+snagfilms.com
+pluto.tv
+yidio.com
+
+vivek ramachandran
+penetration linux testing
+open security training
+hak 5
+
+technical skills for ethical hacking
+1.Computer knowledge (how it works,bios(legacy/uefi),booting,install os,file system
+	(fat32,ntfs,ext2/3/4,swap,hfs+),master boot record,logical and primary
+	partition,32 and 64 bit system, system trobleshooting)
+2.Networking (switch,hub,router,modem, network topology,node,lan,wan,man,ip, 
+	network port, network and wireless security, nat,dhcp,subnetting,
+	public ip,pprivate ip,ipv4,ipv6,dns,arp,osi model,mac adderess)
+3.OS Knowledge (windows,macos,linux,android and ios, linux os, linux windows
+	and mac security and administration,command line interface of dos
+	and linux/unix)
+4.Programming Languagesf (C++,Java,Python,Ruby,Perl,HTML,Php, VBScript,Javascript,
+	ShellScript,SQL/MySQL,database)
+5.Cryptography/Reverse Engineering 
+6.Virtualization Technology
+7.Cyber law
+8.Creative thinking
+9.Problem Solving Skills
+10.Social Engineering
+
+www9.yesmovies.gg
+vumoo.to
+afdah.info
+ www.myflixer.com
+6:15   www.musichq.net
+7:25   www.hdm.to
+8:29   www.batflix.org
+
+https://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog/snippets
+
+

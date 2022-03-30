@@ -1,0 +1,71 @@
+matrix = numpy.array([1,2,3])
+matrix = numpy.array([1,2],
+	[2,3],
+	[3,4]) -->matrix // we can also use numpy.matrix(.....)
+compressed_matrix = scipy.sparse.csr_matrix(matrix) --> stores only non-zero elements and their pos 
+				 	of given matrix
+//selection is known
+
+matrix.shape --> rows and cols
+matrix.size --> rows*cols
+matrix.ndim --> dimensions
+
+add_100 = lambda x:x+100 //function
+vectorized_add_100 = numpy.vectorize(add_100) //creating the vectorized function
+vectorized_add_100(matrix) //apply function to all elements in matrix
+      (or)
+matrix + 100
+
+numpy.max(matrix)
+numpy.min(matrix)
+numpy.mean(matrix) //average
+numpy.var(matrix) //variance
+numpy.std(matrix) //standard deviation
+
+numpy.max/min/mean/var/std(matrix,axis = 0) //row of max element of each column of matrix
+numpy.max(matrix,axis = 1) //row of max element of each row of matrix
+
+matrix.reshape(2,6) //reshape matrix to 2*6 matrix (size of old and new matrix shoud be same)
+matrix.reshape(1,-1) // one row and as many as columns needed
+matrix.T //transpose
+matrix.flatten() //1-D array
+matrix.diagonal() //diagonal elements
+matrix.trace() //trace same as sum(matrix.diagonal())
+
+matrix.diagonal(offset = 1)
+matrix.diagonal(offset = -1)
+
+
+numpy.linalg.matrix_rank(matrix) //rank
+numpy.linalg.det(matrix) //determinant
+eigvalues,eigvectors = numpy.linalg.eig(matrix) //eigen values and vectors
+numpy.linalg.inv(matrix) //inverse of matrix
+
+numpy.dot(matrix_a,matrix_b) //vector dot product or matrix multiplication
+	(or)
+matrix_a @ matrix_b
+
+matrix_a * matrix_b //element wise multiplication
+
+numpy.add(matrix_a,matrix_b)
+numpy.subract(matrix_a,matrix_b)
+	(or)
+matrix_a + matrix_b
+matrix_a - matrix_b
+
+numpy.random.seed(0) //setting the seed
+numpy.random.random(n) // n random floats b/w 0 and 1
+numpy.random.randint(0,11,3) // 3 random integers b/w 0 and 10
+numpy.random.normal(0.0, 1.0, 3) //Draw 3 numbers from a normal distribution 
+				with mean 0.0 and standard deviation of 1.0 
+numpy.random.logistic(0.0, 1.0, 3) //Draw three numbers from a logistic 
+				distribution with mean 0.0 and scale of 1.0
+numpy.random.uniform(1.0, 2.0, 3) //Draw three numbers greater than or 
+					equal to 1.0 and less than 2.0
+
+sklearn.datasets.load_digits() //contains 1787 observations from images of
+				handwritten digits. (classification)
+sklearn.datasets.load_boston() //contains 503 observations of Boston housing
+				prices.(regression)
+sklearn.datasets.load_iris() //contains 150 observations on measurements of iris
+				flowers. (classification)
